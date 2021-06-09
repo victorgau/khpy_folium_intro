@@ -13,6 +13,7 @@
 ### 1. 文件導覽
 
 * [folium 說明文件](http://python-visualization.github.io/folium/)
+* [GeoPandas](https://geopandas.org/)
 
 ### 2. 實作引導
 
