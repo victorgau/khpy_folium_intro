@@ -2,9 +2,9 @@
 
 ## 關於唯客學院：
 
-* [唯客學院網址](https://www.victorgau.com)
-* [唯客學院部落格](https://victorgau.com/blog/)
-* [高雄Python學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院網址](http://www.vcdemy.com)
+* [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院線上教學](https://khpy.teachable.com)
 
 ## 課程內容：
 
@@ -14,6 +14,12 @@
 
 * [folium 說明文件](http://python-visualization.github.io/folium/)
 * [GeoPandas](https://geopandas.org/)
+
+副檔名含意：
+* .dbf ==> 存放數值 (number) 及文字 (text) 資料
+* .shp ==> 存放形狀 (shapes) 及位置 (positions) 資料
+* .shx ==> 存放索引(index)
+* .prj ==> 存放投影(projection)資訊
 
 ### 2. 實作引導
 
